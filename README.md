@@ -91,7 +91,7 @@ WHOIS helps understand domain ownership and registration-related information tha
 
 **Screenshot / Evidence:**
 
-![Task 1](Task 1.png)
+![Task 1 Screenshot](Task%201.png)
 
 ---
 
@@ -119,7 +119,7 @@ DNS lookup helps identify the IP address associated with a domain and provides a
 
 **Screenshot / Evidence:**
 
-![nslookup Output](nslookup-result.png)
+![Task 2 Screenshot](Task%202.png)
 
 ---
 
@@ -152,8 +152,7 @@ DNS enumeration helps understand domain infrastructure, identify mail servers an
 
 **Screenshot / Evidence:**
 
-![DNSRecon Output](dnsrecon-result.png)
-
+![Task 3 Screenshot](Task%203.png)
 ---
 
 ### Task 4 – HTTP Header Inspection Using curl
@@ -182,7 +181,7 @@ HTTP header inspection provides information about the web server, application be
 
 **Screenshot / Evidence:**
 
-![curl Output](curl-result.png)
+![Task 4 Screenshot](Task%204.png)
 
 ---
 
@@ -219,7 +218,7 @@ Technology fingerprinting helps security professionals understand the visible te
 
 **Screenshot / Evidence:**
 
-![WhatWeb Output](whatweb-result.png)
+![Task 5 Screenshot](Task%205.png)
 
 ---
 
@@ -247,7 +246,7 @@ A detected WAF does not guarantee complete protection against all attacks. Its e
 
 **Screenshot / Evidence:**
 
-![wafw00f Output](wafw00f-result.png)
+![Task 6 Screenshot](Task%206.png)
 
 ---
 
@@ -325,53 +324,4 @@ The project focused on educational information gathering and did not involve exp
 
 ---
 
-## 📂 10. Repository Structure
 
-The repository contains the README documentation and all practical screenshots directly in the root directory.
-
-```text
-WEEK-2-FOOTPRINTING-RECONNAISSANCE/
-│
-├── README.md
-├── whois-result.png
-├── nslookup-result.png
-├── dnsrecon-result.png
-├── curl-result.png
-├── whatweb-result.png
-└── wafw00f-result.png
-```
-
-**Note:** All screenshots are uploaded directly to the main repository without creating a separate folder. Make sure the image filenames match the links used in this README.
-
----
-
-## 👤 11. Author
-
-**Muhammad Talha**
-
-B.Tech Student | Cybersecurity Intern, NetworkWalks  
-Batch: B084N
-
-- **GitHub:** [Singari-Laharika](https://github.com/Singari-Laharika)
-- **LinkedIn:** [Singari Laharika](https://www.linkedin.com/in/singari-laharika/)
-
----
-
-## 📌 12. Project Information
-
-| Field | Details |
-|---|---|
-| Program | Cybersecurity at NetworkWalks |
-| Week | 02 |
-| Project | Footprinting & Reconnaissance |
-| Platform | Kali Linux |
-| Repository | GitHub |
-| Focus | Information Gathering |
-
----
-
-<div align="center">
-
-*Learning Cybersecurity One Practical at a Time.*
-
-</div>
