@@ -22,7 +22,7 @@
 | Field | Details |
 |---|---|
 | Project Name | Week 2 – Footprinting & Reconnaissance |
-| Author | Singari Laharika |
+| Author | Muhammad Talha |
 | Platform | Kali Linux |
 | Target Domain | `networkwalks.com` |
 | Tools Used | WHOIS, nslookup, DNSRecon, curl, WhatWeb, wafw00f |
@@ -91,7 +91,7 @@ WHOIS helps understand domain ownership and registration-related information tha
 
 **Screenshot / Evidence:**
 
-![WHOIS Output](whois-result.png)
+![Task 1](Task 1.png)
 
 ---
 
