@@ -249,6 +249,8 @@ A detected WAF does not guarantee complete protection against all attacks. Its e
 ![Task 6 Screenshot](Task%206.png)
 
 ---
+ 🐙 GitHub: [@infomuhammadtalha](https://github.com/infomuhammadtalha)
+- 💼 LinkedIn: [Muhammad Talha](https://www.linkedin.com/in/muhammad-talha-98b39b279/)
 
 ## 📊 5. Summary of Results
 
